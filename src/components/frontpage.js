@@ -1,6 +1,6 @@
 import React, { Fragment } from "react";
 import Image from "next/image";
-import FrontImage from '../../public/images/frnt.jpg'
+import FrontImage from '@/assets/frnt.jpg'
 
 export default function Frontpage() {
   

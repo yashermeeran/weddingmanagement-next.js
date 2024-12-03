@@ -37,10 +37,10 @@ img{
  .contact-details h4 {
    margin: 0px;
  }
- #images{
+ .images{
    display: flex;
-   width: 100px;
-   height: 200px;
+   width: 400px;
+   height: 300px;
    column-gap: 20px;
    padding: 10px;
    padding-top: 50px;
